@@ -1,5 +1,5 @@
 
-**# Ethereum Blockchain Visualizer  
+# Ethereum Blockchain Visualizer  
 
 **DISCLAMER:** This is mainly an educational project to train me in the coding space & maybe help others, so this is not intended for a real use. **TL;DR:** things might break :P 
 
